@@ -2,7 +2,7 @@
 - 👀 I’m interested in math and stats
 - 🌱 I’m currently learning python, matlab, and r
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... please dont
+- 📫 How to reach me ... email
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i love to cook
 
